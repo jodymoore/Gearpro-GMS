@@ -25,7 +25,7 @@ logo a {
 #logo {
   text-align: center;
   height: 200px;
-  background-color: grey;
+  background-color: rgb(90,90,90);
   border-radius: 10px;
 }
 
