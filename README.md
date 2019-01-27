@@ -35,7 +35,7 @@ footer {
 </style>
 <link rel="icon" href="https://s3.amazonaws.com/jwm-product-images/gearproImages/parachuteImage.ico" type="image/x-icon" />
 <div id="logo">
-<a href="http://gearpro.jodymoore.net/login" ><h3>GearPro<em>D<span>z</span></em></h3> </a>
+<a href="http://gearprogms.com/login" ><h3>GearPro<em>D<span>z</span></em></h3> </a>
 </div>
 <h4> Click above to checkout Gearpro Dz</h4>
 <br>
