@@ -71,6 +71,6 @@ GearPro Dz is a Drop Zone Gear Management System.
 
 <img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-06.png" >
 
-<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-06.png" >
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-07.png" >
 
-<h7>Background image provided by Javier Ortiz.</h7>
+<img src="https://s3.amazonaws.com/jwm-product-images/gearproImages/gearpro-image-08.png" >
