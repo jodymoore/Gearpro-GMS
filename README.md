@@ -44,7 +44,7 @@ footer {
 
 GearPro Dz is a Drop Zone Gear Management System. 
 
-4 Account types
+<h4>4 Account types </h4>
 - Drop zone Manager
 - Packer
 - Rigger
