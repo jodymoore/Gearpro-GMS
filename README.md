@@ -44,6 +44,13 @@ footer {
 
 GearPro Dz is a Drop Zone Gear Management System. 
 
+4 Account types
+- Drop zone Manager
+- Packer
+- Rigger
+- Skydiver
+
+<h4> Features </h4>
 - Track pack jobs.
 - Maintain logbooks on parachute systems.
 - Track contractor packs.
